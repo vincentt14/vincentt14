@@ -1,19 +1,11 @@
-# Halo semua! 
+### Hi! 👋 I'm Vincent.
 
-Perkenalkan nama saya **Vincent**.
+An informatics student that likes to design and make websites which focuses on front-end. And also someone who has a high motivation and passion in the studies of making interesting websites.
 
-Saya seorang **Junior Frontend Developer**.
+I'm currently active in contributing Studi Independent as Student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to learn Front-End Web and React Courses.
 
-Saya tertarik dengan pembuatan website.
-
-Saya juga memiliki website portfolio [GitHub](https://vincentt14.github.io) sejak 2021.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vincent-240775185/)ku ya.
-
-
-<p align="left">
-<a href="https://github.com/vincentt14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+- 🔭 I’m currently learning at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about frontend development.
+- 💬 Feel free to comment my first version of portfolio [GitHub](https://vincentt14.github.io).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/)
+- ⚡ Fun fact: i like sports and learn something new
