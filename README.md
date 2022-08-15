@@ -7,5 +7,5 @@ I'm currently active in contributing Studi Independent as Student at <a href="ht
 - 🔭 I’m currently learning at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about frontend development.
 - 💬 Feel free to comment my first version of portfolio [GitHub](https://vincentt14.github.io).
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/)
-- ⚡ Fun fact: i like sports and learn something new
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/), Gmail : vincent14@umn.ac.id.
+- ⚡ Fun fact: i like sports and learn new things.
