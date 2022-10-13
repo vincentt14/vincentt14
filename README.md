@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Vincent.
 
-An informatics student that likes to design and build websites which focuses on front-end. And also someone who has a high motivation and passion in the studies of making interesting websites.
+An informatics student that likes to build websites which focuses on front-end. And also someone who has a high motivation and passion in the studies of making interesting websites.
 
 I'm currently active in contributing Studi Independent as Student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to learn Front-End Web and React Courses.
 
