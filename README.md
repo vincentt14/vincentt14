@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Vincent.
+### Hi! 👋🏻 I'm Vincent.
 
 An informatics student that likes to build websites which focuses on front-end. And also someone who has high motivation and passion in the studies of making interesting websites.
 
