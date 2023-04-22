@@ -6,7 +6,7 @@ I'm currently active in contributing <b>Fresh Graduate Academy (FGA) Digitalent 
 <b>Scalable Web Services with Golang</b> at <a href="https://github.com/hacktiv8">Hacktiv8</a>. -->
 
 - 🔭 I’m currently learning at <a href="https://github.com/hacktiv8">Hacktiv8</a> and <a href="https://github.com/udemy">Udemy</a>.
-- 🌱 I’m currently learning about Back-End development - PHP Laravel, NestJS and Golang.
+- 🌱 I’m currently learning about Back-End development - PHP Laravel, NestJS, Golang and Databases.
 - 💬 Feel free to comment my [Portfolio](https://vincentt14.github.io/) that i build using React.js and Tailwind.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/), Gmail : vincent14@student.umn.ac.id.
 - ⚡ Fun fact: i like sports and learn bunch of new things.
