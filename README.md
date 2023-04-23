@@ -1,6 +1,8 @@
 ### Hi! 👋🏻 I'm Vincent.
 
 An informatics student that likes to build websites which focuses on front-end. And also someone who has high motivation and passion in the studies of making interesting dynamic websites.
+
+I'm currently focused on doing my undergraduate thesis which uses Laravel to make a web-based diagnose application regarding diabetes mellitus disease called DiaCare.
 <!-- 
 I'm currently active in contributing <b>Fresh Graduate Academy (FGA) Digitalent held by Kominfo</b> about : <br>
 <b>Scalable Web Services with Golang</b> at <a href="https://github.com/hacktiv8">Hacktiv8</a>. -->
