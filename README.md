@@ -2,10 +2,10 @@
 
 An informatics student that likes to build websites which focuses on front-end. And also someone who has high motivation and passion in the studies of learning or building dynamic and interactive websites.
 
-I'm currently focused on learning about web development Back-End - <a href="https://spring.io/guides/gs/spring-boot/">Java Spring Boot</a>, Front-End - <a href="https://nextjs.org/">Next.js</a>
-
+I'm currently focused on learning about Back-End web development - <a href="https://spring.io/guides/gs/spring-boot/">Java Spring Boot</a> and Front-End - <a href="https://nextjs.org/">Next.js</a>
+<!--
 Btw this is my undergraduate thesis project which uses Laravel to make a web-based diagnose application regarding diabetes mellitus disease called <a href="https://diacare.site">DiaCare</a>. You can give it a try til 26 june bcs Hostinger will expired.
-<!-- 
+ 
 I'm currently active in contributing <b>Fresh Graduate Academy (FGA) Digitalent held by Kominfo</b> about : <br>
 <b>Scalable Web Services with Golang</b> at <a href="https://github.com/hacktiv8">Hacktiv8</a>. -->
 
