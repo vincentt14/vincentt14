@@ -10,7 +10,7 @@ I'm currently active in contributing <b>Fresh Graduate Academy (FGA) Digitalent 
 <b>Scalable Web Services with Golang</b> at <a href="https://github.com/hacktiv8">Hacktiv8</a>. -->
 
 - 🔭 I’m currently learning from Youtube and <a href="https://github.com/udemy">Udemy</a>.
-- 🌱 I’m currently learning about Back-End development - Java Spring Boot and Front-End - React.
+- 🌱 I’m currently learning about Front-End - Next.js and Back-End - Java Spring Boot.
 - 💬 Feel free to comment my [Portfolio](https://vincentt14.github.io/) that i build using React.js and Tailwind.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/) or Email : stefanuslim844@gmail.com.
 - ⚡ Fun fact: i like sports and learn bunch of new things that also related to web tech.
