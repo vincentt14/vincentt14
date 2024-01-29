@@ -2,8 +2,8 @@
 
 > A Fresh Graduate Informatics student who pursues and specializes in the field of web development. Someone who has a high motivation and passion in the studies of learning and building dynamic interactive websites.
 >> ## Visit my [Portfolio](https://vincentt14.github.io/). Build using Next.js, TypeScript and Tailwind.
->> - 🚀 I'm currently focused on learning about Backend web development - <a href="https://spring.io/">Java Spring Boot</a>.
->> - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/) or Email : stefanuslim844@gmail.com.
+>> - 🚀 I'm currently focused on learning about C# and .NET Framework.
+>> - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vincent-240775185/) or Email: stefanuslim844@gmail.com.
 >> 
 ![Vincent.](https://github.com/vincentt14/vincentt14/assets/75069457/c4c8342a-147a-46a9-a53f-4e443754dd0c)
 
